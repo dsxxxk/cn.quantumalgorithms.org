@@ -50,9 +50,14 @@ github-repo: "scinawa/quantumalgorithms.org"
 
 
 
-# Preface
+<!--# Preface-->
+# 前言
 
-This is an [open source project accessible on GitHub](https://github.com/Scinawa/quantumalgorithms.org/) - only possible thanks to its many [contributors.](contributions-and-acknowledgements.html) The website is licensed under CC BY-NC-SA 4.0. We are searching for talented people and researchers to contribute: you can find a list of issues and enhancements that would improve this book further on the [issues list](https://github.com/Scinawa/quantumalgorithms.org/issues) for the GitHub repo, making recent material that keeps popping up in quantum information accessible to a larger audience.
+<!--This is an [open source project accessible on GitHub](https://github.com/Scinawa/quantumalgorithms.org/) - only possible thanks to its many [contributors.](contributions-and-acknowledgements.html) The website is licensed under CC BY-NC-SA 4.0. We are searching for talented people and researchers to contribute: you can find a list of issues and enhancements that would improve this book further on the [issues list](https://github.com/Scinawa/quantumalgorithms.org/issues) for the GitHub repo, making recent material that keeps popping up in quantum information accessible to a larger audience.-->
+
+这是一个来自于[Github的开源项目](https://github.com/Scinawa/quantumalgorithms.org/)--因此仅有无尽的感激献给它的诸多[贡献者们](contributions-and-acknowledgements.html).这个网站已经由 CC BY-NC-SA 4.0的许可。我们一直以来也在寻求具有天赋的人们和研究者来参与贡献：你们可以在如下的[问题和改善列表](https://github.com/Scinawa/quantumalgorithms.org/issues)中找到一些有待解决和改善的问题来通过Github的仓库来改善这本书，使得更多的读者可以从最新颖的量子信息学成果中有所收获。
+
+
 
 
 
