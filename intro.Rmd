@@ -16,12 +16,12 @@ reader is highly encouraged to skim the appendix on his/her own, so to
 know the notation adopted here.-->
 
 在本章中，我们将介绍在本讲义之后的内容中所使用的符号。我们将广泛使用线性代数（范数矩阵、SVD、特定矩阵的属性等），所以
-强烈建议读者自行浏览附录，以便知道所采用的符号。
+强烈建议读者自行浏览附录，以便了解所采用的符号。
 
 <!--## Getting rid of physics in quantum computing-->
 ## 在量子计算中摆脱物理
 
-Following one of the [lectures of
+<!--Following one of the [lectures of
 Susskind](https://www.youtube.com/watch?v=8mi0PoPvLvs), we are going to
 start from a "handwavy" introduction of quantum mechanics, that starts
 from few considerations and lead straight to the Schrödinger equation.
@@ -35,12 +35,16 @@ physics, thanks to this formulation (which comes from [@NC02]), we could
 eventually think of them as "axioms of quantum computing". As [Scott
 Aaronson](https://www.youtube.com/watch?v=SJkbe4Rkv9c) rightly said, if
 you are not a physicist, you need to remove physics from quantum
-mechanics to understanding it!
+mechanics to understanding it!-->
 
-The objective is that the reader should *not* feel the need to dig into
+沿着Succkind的讲义[lectures of Susskind](https://www.you ube.com/watch v=8mi0PoPvLvs) 之一，我们将从量子力学的“不太正式”介绍开始，通过一些简单的思考，直接引出薛定谔方程。通过一些数学技巧，我们将直观地证明所陈述在接下来的内容里会用到的4个量子力学公理。希望通过这个介绍，读者可以从微小的物理直觉中获得对**量子力学公理**的更好理解。尽管“量子力学公理”这个名称似乎（显然）与物理学有关，但由于这个公式（来自[@NC02]），我们最终可以将它们视为“量子计算公理”。正如[Scott Aaronson](https://www.you ube.com/watch v=SJkbe4Rkv9c) 所说的那样，如果您不是物理学家，则需要将物理学从量子力学中剔除才能理解量子计算。
+
+<!--The objective is that the reader should *not* feel the need to dig into
 quantum mechanical details of quantum computers, but can comfortably sit
 on top of the 4 axioms of quantum mechanics, and build (a lot) from
-there.
+there.-->
+
+这样做的目的是为了提醒读者不需要深入研究量子计算机的量子力学细节，而是可以舒适地坐在量子力学的 4 个公理之上，并在此基础上构建（很多）的成果。
 
 When, at the beginning of the 20th century, physicists started to model
 quantum phenomena, they observed that the dynamic of the systems had two
