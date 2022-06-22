@@ -5,15 +5,21 @@ output:
 ---
 # (PART) Bridging the gap {-}
 
-# Quantum computing and quantum algorithms {#chapter-intro}
+<!--# Quantum computing and quantum algorithms {#chapter-intro}-->
 
-还可以啊In this chapter we will introduce the notation used throughout the rest
+# 量子计算和量子算法 {#chapter-intro}
+
+<!--In this chapter we will introduce the notation used throughout the rest
 of the lecture notes. We will extensively use linear algebra (norm of
 matrices, SVD, properties of particular matrices, and so on), so the
-reader is higly encouraged to skim the appendix on his/her own, so to
-know the notation adopted here.
+reader is highly encouraged to skim the appendix on his/her own, so to
+know the notation adopted here.-->
 
-## Getting rid of physics in quantum computing
+在本章中，我们将介绍在本讲义之后的内容中所使用的符号。我们将广泛使用线性代数（范数矩阵、SVD、特定矩阵的属性等），所以
+强烈建议读者自行浏览附录，以便知道所采用的符号。
+
+<!--## Getting rid of physics in quantum computing-->
+## 在量子计算中摆脱物理
 
 Following one of the [lectures of
 Susskind](https://www.youtube.com/watch?v=8mi0PoPvLvs), we are going to

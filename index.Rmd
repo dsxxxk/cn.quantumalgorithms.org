@@ -61,28 +61,38 @@ github-repo: "scinawa/quantumalgorithms.org"
 
 
 
-The aim of this book is twofold:
-这本书有两层目的
+<!--The aim of this book is twofold:-->
+这本书有两层目的：
 
-- First, we want to bridge the gap between introductory material in quantum computation and research material.
-- Secondarily, you should be able to use this book as a resource for state-of-the-art algorithms. Readers and scholars should find statements of theorems (along with their citations) and runtimes of the best quantum subroutines in literature, ready to be used in new quantum algorithms or applications.
+<!-- First, we want to bridge the gap between introductory material in quantum computation and research material.
+- Secondarily, you should be able to use this book as a resource for state-of-the-art algorithms. Readers and scholars should find statements of theorems (along with their citations) and runtimes of the best quantum subroutines in literature, ready to be used in new quantum algorithms or applications.-->
 
+- 首先，我们希望弥合量子计算中的介绍材料和研究材料之间的差距。
+- 其次，您应该能够将本书作为一本整合了最先进算法的资源。读者和学者应该可以从本书中找到最好的量子子程序的定理陈述（连同他们的引文）和运行时间，以准备好用于新的量子算法或应用。
 
-These lecture notes were used to teach at:
+<!--These lecture notes were used to teach at:
 
 - Politecnico di Milano (2019) - Quantum machine learning in practice.
 - Politecnico di Milano (2021) - Applied quantum computing.
 
 Are you using these lecture notes as support for your course? [Write us an email!](mailto://scinawa@luongo.pro)
+-->
 
+这些讲义已在以下课程中用作教学：
+
+- 米兰理工大学（2019） - 实用量子机器学习
+- 米兰理工大学（2021） - 应用量子计算
 
 <p style="text-align:right">
  This book is dedicated to all [cypherpunks: *civil liberties through complex mathematics*.](https://luongo.pro/cypherpunks/) </p>
 
 
-## Abstract
+<!--## Abstract-->
+## 摘要
 
-In these lecture notes, we explore how we can leverage quantum computers and quantum algorithms for information processing. It has long been known that quantum computation can offer computational advantages with respect to classical computation, and in this place we explore more the consequences of this intuition in current domains of computer sciences.
+<!--In these lecture notes, we explore how we can leverage quantum computers and quantum algorithms for information processing. It has long been known that quantum computation can offer computational advantages with respect to classical computation, and in this place we explore more the consequences of this intuition in current domains of computer sciences.-->
+
+在这些讲义中，我们探讨了如何利用量子计算机和量子算法进行信息处理。众所周知，量子计算可以提供相对于经典计算的计算优势，在这个基础之上，我们更多地探索这种直觉在当前计算机科学领域产生的影响。
 
 Why are we studying quantum algorithms? Studying how to use quantum mechanical
 systems is already fascinating in itself, but we argue that having faster
@@ -156,7 +166,6 @@ Coming soon:
 - quantum algorithms for dynamic programming
 - quantum convolutional neural networks
 - quantum random feature sampling
-
 
 ## Teaching using this book
 
