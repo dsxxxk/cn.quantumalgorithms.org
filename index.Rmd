@@ -62,6 +62,7 @@ github-repo: "scinawa/quantumalgorithms.org"
 
 
 The aim of this book is twofold:
+这本书有两层目的
 
 - First, we want to bridge the gap between introductory material in quantum computation and research material.
 - Secondarily, you should be able to use this book as a resource for state-of-the-art algorithms. Readers and scholars should find statements of theorems (along with their citations) and runtimes of the best quantum subroutines in literature, ready to be used in new quantum algorithms or applications.
